@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Mitr:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
+*{
+    font-family: 'Mitr', sans-serif;
+}
+#tableShow{
+    padding: 10px;
+    text-align: center;
+}
+#brand #footer{
+    font-family: 'Macondo', cursive;
+}
+.nav-link a{
+    border-radius: 2px;
+}
+.nav-link a:hover{
+    background-color: bisque;
+    transition: 1s;
+}
