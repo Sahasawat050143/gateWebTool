@@ -42,7 +42,6 @@
                 <th>TOTAL PRICE</th>
                 <th>RESPONABLE</th>
                 <th>DETAIL</th>
-                <th>DETAIL</th>
             </tr>
             
             <?php
